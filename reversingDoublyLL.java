@@ -67,3 +67,8 @@ public class reversingDoublyLL
        System.out.println();
    }
 }
+/*
+Write a program to reverse a doubly linked list
+I/p : 7 5 2 9 8
+O/p : 8 9 25 7
+*/
