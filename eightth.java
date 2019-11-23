@@ -48,3 +48,6 @@ public class eightth
             System.out.println("Not a BST!!");
     }
 }
+/*
+Write a program to check if a given binary tree is BST or not
+*/
